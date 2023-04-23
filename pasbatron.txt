@@ -4,4 +4,4 @@ Komintemen 23-04-2023
 - Membuat project IoT untuk semua standar
 - Beresin TA
 - Fokus karir yang baru
-- pasbatron
+
