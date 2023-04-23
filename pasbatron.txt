@@ -3,3 +3,4 @@ Komintemen 23-04-2023
 - Komitmen membuat konten minimal 1 dalam seminggu
 - Membuat project IoT untuk semua standar
 - Beresin TA
+- Fokus karir yang baru
